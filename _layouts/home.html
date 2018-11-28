@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="fade-in" class="post-list-heading">
+      <center>
+	{{ page.list_title | default: "Posts" }}
+      </center>
+    </h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        <h3 class="fade-in">
+	  <center>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+	      {{ post.title | escape }}
+            </a>
+	  </center>
+        </h3>
+	<center>
+	  <img src={{ post.photo }} style="width:20%;height:20%;" class="fade-in">
+	</center>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>
