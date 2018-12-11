@@ -4,6 +4,5 @@ title:  "Dans la Foret"
 date:   2018-11-26 21:00:00 +0000
 categories: Prix
 photo: "/assets/dans_la_foret.PNG"
-comments: true
 ---
 
