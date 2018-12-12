@@ -1,8 +1,16 @@
 ---
 layout: post
-title:  "Dans la Foret"
+title:  "Dans la Forêt"
 date:   2018-11-26 21:00:00 +0000
 categories: Prix
 photo: "/assets/dans_la_foret.PNG"
 ---
+## Résumé
 
+Nell et Eva vivent dans une maison californienne installée en bordure d’une forêt. Elles sont sœurs âgées de 17 et 18 ans. Leur père travaille dans une école de Redwood, la ville la plus proche située à une cinquantaine de kilomètres. Leur mère est une ancienne danseuse reconvertie dans le tissage. Les deux jeunes sœurs ne vont pas en classe et reçoivent une éducation libre dans laquelle chacune doit prendre ses responsabilités.
+
+Ce roman débute avec l’ouverture de son journal qu’elle vient de recevoir de sa sœur. Elle utilise le journal pour écrire de ses doutes, ses questions et raconter sa vie. Nell est veut étudier à Harvard. Elle passe tous son temps à lire son encyclopédie, le seul livre qu’elle n’a pas fini et qui peut lui apporter toutes les connaissances. Pendant que Nell apprend, Eva s’entraîne à danser pour pouvoir rejoindre un corps de ballet californien. Les deux sœurs sont cultivées, déterminées. Par touches successives d’allers et retours dans le temps, on découvre que la mère de Nell est récemment morte d’un cancer.
+
+Dans la maison en bordure de forêt, l’électricité manque de plus en plus souvent. On ne saura jamais ce qui est survenu. L’essence et la nourriture manque aussi, en ville. Mais la maison dispose d’un garde-manger riche de provisions et la famille pense avoir le temps de voir venir sans craindre la disette. Les choses ne sont juste plus comme avant, quand la consommation en totale insouciance était encore possible.
+
+Les jours passent et chacun est à la tâche. Nell travaille, Eva danse, le père trouve des provisions pour l’hiver. Alors qu’il est dans la forêt à débiter du bois, le père tombe sur sa tronçonneuse en marche. L’accident lui sera fatal et les deux sœurs se retrouvent seuls avec les provisions qui se raréfient. Les cauchemars de Nell débutent.
