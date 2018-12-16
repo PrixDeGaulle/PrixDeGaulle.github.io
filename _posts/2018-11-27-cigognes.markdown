@@ -5,5 +5,14 @@ date:   2018-11-26 21:00:00 +0000
 categories: Prix
 photo: "/assets/cigognes.PNG"
 ---
-## Resume
+## Résumé
+À Pointe-Noire, dans le quartier Voungou, la vie suit son cours. Autour de la parcelle familiale où il habite avec Maman Pauline et Papa Roger, le jeune collégien Michel a une réputation de rêveur. Mais les tracas du quotidien (argent égaré, retards et distractions, humeur variable des parents, mesquineries des voisins) vont bientôt être emportés par le vent de l’Histoire. En ce mois de mars 1977 qui devrait marquer l’arrivée de la petite saison des pluies, le camarade président Marien Ngouabi est brutalement assassiné à Brazzaville. Et cela ne sera pas sans conséquences pour le jeune Michel, qui fera alors, entre autres, l’apprentissage du mensonge.
 
+Partant d’un univers familial, Alain Mabanckou élargit vite le cercle et nous fait entrer dans la grande fresque du colonialisme, de la décolonisation et des impasses du continent africain, dont le Congo est ici la métaphore puissante et douloureuse. Mêlant l’intimisme et la tragédie politique, il explore les nuances de l’âme humaine à travers le regard naïf d’un adolescent qui, d’un coup, apprend la vie et son prix.
+
+
+## Auteur
+
+![photo](/assets/alain_mabanckou.PNG)
+
+Alain Mabanckou est un écrivain et enseignant franco-congolais, né le 24 février 1966 à Pointe-Noire (république du Congo). Il remporte en 2006 le prix Renaudot pour son roman Mémoires de porc-épic. Finaliste en 2015 du Man Booker International Prize et du Premio Strega Europeo, il a notamment été récompensé en 2012 par l'Académie française (Grand Prix de littérature Henri-Gal) et en 2013 par la Principauté de Monaco (prix littéraire Prince Pierre de Monaco pour l'ensemble de l'œuvre).
