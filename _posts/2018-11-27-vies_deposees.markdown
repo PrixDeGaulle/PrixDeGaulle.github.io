@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vie Déposé"
+title:  "Vies Déposées"
 date:   2018-11-26 21:00:00 +0000
 categories: Prix
 photo: "/assets/vies_deposees.PNG"
