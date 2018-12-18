@@ -197,6 +197,14 @@
   flex: 1 0 auto;
 }
 
+.main-icon {
+    width:60%;
+    height:60%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+
 .page-content {
   background-color:$background-color;
   padding: $spacing-unit 0;

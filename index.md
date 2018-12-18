@@ -5,3 +5,5 @@
 layout: home
 list_title: "Livres"
 ---
+
+<img src="/assets/icon.PNG" class="main-icon" />
