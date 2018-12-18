@@ -187,7 +187,7 @@
 /**
  * Page content
  */
-.page-content {
+.home-content {
     background-image: url("/assets/icon.PNG");
     background-attachment: fixed;
   background-repeat: no-repeat;
@@ -197,8 +197,14 @@
   flex: 1 0 auto;
 }
 
+.page-content {
+  background-color:$background-color;
+  padding: $spacing-unit 0;
+  flex: 1 0 auto;
+}
+
 .page-heading {
-  @include relative-font-size(2);
+    @include relative-font-size(2);
 }
 
 .post-list-heading {
